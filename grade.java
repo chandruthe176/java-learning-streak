@@ -32,7 +32,7 @@ public  class grade {
             System.out.println("you got "+ grade + " "+" you failed try again");
         }
         else{
-            System.out.println("\nerror\n");
+            System.out.println("error\n");
         }
 
     }
